@@ -51,7 +51,7 @@ banco_de_dados=nome_do_banco
 numero_dias=5
 
 # DIRETORIO ONDE SERÃO SALVOS OS BACKUPS
-backup_dir="home/_SEU_USUARIO/_DESTINO"
+backup_dir="home/_SEU_USUARIO/_DESTINO/"
 
 
 
