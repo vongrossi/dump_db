@@ -2,7 +2,7 @@
 
 #########################################################
 #							#
-#			DumpDB.sh			#
+#			dumpdb.sh			#
 #							#
 # Finalidade:						#
 #	Cria backup da base de dados 		 	#
