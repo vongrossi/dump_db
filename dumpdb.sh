@@ -20,7 +20,8 @@
 #							#
 # Info:							#
 #	Nesta versão foi adicionado o suporte a 	#
-#	envio de emails com mailutils 			#
+#	envio de emails com mailutil add pv suporte     #
+#       apt-get install pv ou pacman -S pv              #
 #	(para que funcione corretamente e necessario	#
 #	ter instalado o pacote mailutils		#
 #	apt-get install mailutils 			#
