@@ -26,7 +26,7 @@ envio de emails com mailutil add pv suporte
  ou
  
 	pacman -s mailutils			
- #### Notas:						
+#### Notas:						
 
 Futuras implementações será adicionado 		
 o suporte a envio de mensagem com telegram 	
