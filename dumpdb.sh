@@ -25,7 +25,7 @@
 #	(para que funcione corretamente e necessario	#
 #	ter instalado o pacote mailutils		#
 #	apt-get install mailutils 			#
-#	pacman -s mailtuils)				#
+#	pacman -s mailutils)				#
 #        						#
 # Notas:						#
 #	Futuras implementações será adicionado 		#
